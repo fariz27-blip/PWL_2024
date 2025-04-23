@@ -6,6 +6,6 @@
     <title>Muhammad Fariz</title>
 </head>
 <body>
-    
+    <P>Prodi teknik informatika</P>
 </body>
 </html>
